@@ -31,6 +31,38 @@
       "type": "income",
       "createdAt": "2022-10-10T18:14:12.223Z",
       "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-10-10T18:53:46.567Z",
+      "id": 5
+    },
+    {
+      "description": "torta",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-10-10T18:54:55.741Z",
+      "id": 6
+    },
+    {
+      "description": "Iogurte",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-10-10T19:26:46.357Z",
+      "id": 7
+    },
+    {
+      "description": "banana",
+      "price": 2,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-10-10T19:27:45.693Z",
+      "id": 8
     }
   ]
 }
